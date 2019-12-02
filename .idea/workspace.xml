@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40791c30-7df2-49c0-b1e2-f2ae19097a44" name="Default Changelist" comment="" />
+    <list default="true" id="40791c30-7df2-49c0-b1e2-f2ae19097a44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode2019/karsiwek/day02/Day02aKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/adventOfCode2019/karsiwek/day02/Day02aKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode2019/karsiwek/day02/Day02bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/adventOfCode2019/karsiwek/day02/Day02bKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/karsiwek/day02/day02a.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/karsiwek/day02/day02a.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/karsiwek/day02/day02b.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/karsiwek/day02/day02b.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UL1ml2u73s6ufASHE4yelfLUIU" />
   <component name="PropertiesComponent">
@@ -14,6 +24,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/karsiwek" />
@@ -40,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.karsiwek.day02.Day02bKt">
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -67,14 +78,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="karsiwek.day01.Day02aKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="karsiwek.day01.Day01aKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="adventOfCode2019" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="karsiwek.day01.Day02aKt" />
+      <option name="MAIN_CLASS_NAME" value="karsiwek.day01.Day01aKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="karsiwek.day01.Day01bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode2019" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="karsiwek.day01.Day01bKt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,19 +113,6 @@
       <option name="MAIN_CLASS_NAME" value="karsiwek.day01.Day02aKt" />
       <option name="WORKING_DIRECTORY" value="file://$KOTLIN_BUNDLED$" />
       <module name="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="karsiwek.day01.Day02bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="adventOfCode2019" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="karsiwek.day01.Day02bKt" />
-      <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,19 +187,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.karsiwek.day01.Day02aKt" />
-      <item itemvalue="Kotlin.karsiwek.day01.Day02aKt" />
-      <item itemvalue="Kotlin.karsiwek.day01.Day02bKt" />
+      <item itemvalue="Kotlin.karsiwek.day01.Day01aKt" />
+      <item itemvalue="Kotlin.karsiwek.day01.Day01bKt" />
       <item itemvalue="Kotlin.karsiwek.day02.Day02aKt" />
       <item itemvalue="Kotlin.karsiwek.day02.Day02bKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.karsiwek.day02.Day02bKt" />
+        <item itemvalue="Kotlin.karsiwek.day01.Day01bKt" />
         <item itemvalue="Kotlin.karsiwek.day02.Day02aKt" />
-        <item itemvalue="Kotlin.karsiwek.day01.Day02bKt" />
-        <item itemvalue="Kotlin.karsiwek.day01.Day02aKt" />
-        <item itemvalue="Kotlin.karsiwek.day01.Day02aKt" />
+        <item itemvalue="Kotlin.karsiwek.day02.Day02bKt" />
+        <item itemvalue="Kotlin.karsiwek.day01.Day01aKt" />
+        <item itemvalue="Kotlin.karsiwek.day01.Day01aKt" />
       </list>
     </recent_temporary>
   </component>
@@ -204,10 +214,22 @@
       <updated>1575121222552</updated>
       <workItem from="1575121224430" duration="3980000" />
       <workItem from="1575226583644" duration="4444000" />
+      <workItem from="1575275244679" duration="160000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

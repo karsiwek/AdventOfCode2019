@@ -13,7 +13,6 @@ fun getProgram(input: String): ArrayList<Int> {
             .filter {!it.trim().equals("") }
             .map( {it.toInt() })
             );
-
 }
 
 fun getFuelForSingleMass(mass: Int): Int {
@@ -24,7 +23,7 @@ fun runProgram(progr : ArrayList<Int>) : Int {
     var i=0;
     while(i < progr.size){
         if(progr[i]==99){
-            //System.out.println(progr);
+            System.out.println(progr);
             return progr[0];
         } else if(progr[i]==1){
             progr.set(progr[i+3], progr[progr[i+1]] + progr[progr[i+2]]);
