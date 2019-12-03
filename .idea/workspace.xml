@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40791c30-7df2-49c0-b1e2-f2ae19097a44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/karsiwek/day03/day03a.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/karsiwek/day03/day03b.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode2019/karsiwek/day02/Day02aKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/adventOfCode2019/karsiwek/day02/Day02aKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode2019/karsiwek/day02/Day02bKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/adventOfCode2019/karsiwek/day02/Day02bKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/karsiwek/day02/day02a.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/karsiwek/day02/day02a.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/karsiwek/day02/day02b.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/karsiwek/day02/day02b.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.karsiwek.day03b.Day03bKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -78,19 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="karsiwek.day01.Day01aKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="adventOfCode2019" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="karsiwek.day01.Day01aKt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="karsiwek.day01.Day01bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="adventOfCode2019" />
       <option name="VM_PARAMETERS" value="" />
@@ -100,19 +84,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="karsiwek.day01.Day01bKt" />
       <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="karsiwek.day01.Day02aKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="karsiwek.day01.Day02aKt" />
-      <option name="WORKING_DIRECTORY" value="file://$KOTLIN_BUNDLED$" />
-      <module name="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,6 +109,32 @@
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="karsiwek.day02.Day02bKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="karsiwek.day03.Day03aKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode2019" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="karsiwek.day03.Day03aKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="karsiwek.day03b.Day03bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode2019" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="karsiwek.day03b.Day03bKt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -187,18 +184,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.karsiwek.day01.Day01aKt" />
       <item itemvalue="Kotlin.karsiwek.day01.Day01bKt" />
       <item itemvalue="Kotlin.karsiwek.day02.Day02aKt" />
       <item itemvalue="Kotlin.karsiwek.day02.Day02bKt" />
+      <item itemvalue="Kotlin.karsiwek.day03.Day03aKt" />
+      <item itemvalue="Kotlin.karsiwek.day03b.Day03bKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.karsiwek.day03b.Day03bKt" />
+        <item itemvalue="Kotlin.karsiwek.day03.Day03aKt" />
         <item itemvalue="Kotlin.karsiwek.day01.Day01bKt" />
         <item itemvalue="Kotlin.karsiwek.day02.Day02aKt" />
         <item itemvalue="Kotlin.karsiwek.day02.Day02bKt" />
-        <item itemvalue="Kotlin.karsiwek.day01.Day01aKt" />
-        <item itemvalue="Kotlin.karsiwek.day01.Day01aKt" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +212,8 @@
       <updated>1575121222552</updated>
       <workItem from="1575121224430" duration="3980000" />
       <workItem from="1575226583644" duration="4444000" />
-      <workItem from="1575275244679" duration="160000" />
+      <workItem from="1575275244679" duration="2116000" />
+      <workItem from="1575355113309" duration="6400000" />
     </task>
     <servers />
   </component>
@@ -226,10 +225,36 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/karsiwek/day03/day03a.kt</url>
+          <line>27</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/karsiwek/day03/day03a.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/karsiwek/day03/day03a.kt</url>
+          <line>50</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
