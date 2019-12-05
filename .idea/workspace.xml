@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40791c30-7df2-49c0-b1e2-f2ae19097a44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/karsiwek/day03/day03a.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/karsiwek/day03/day03b.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/karsiwek/day04/day04a.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/karsiwek/day04/day04b.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/adventOfCode2019/META-INF/adventOfCode2019.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/adventOfCode2019/META-INF/adventOfCode2019.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.karsiwek.day03b.Day03bKt">
+  <component name="RunManager" selected="Kotlin.karsiwek.day04b.Day04bKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -88,32 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="karsiwek.day02.Day02aKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="adventOfCode2019" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="karsiwek.day02.Day02aKt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="karsiwek.day02.Day02bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="adventOfCode2019" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="karsiwek.day02.Day02bKt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="karsiwek.day03.Day03aKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="adventOfCode2019" />
       <option name="VM_PARAMETERS" value="" />
@@ -135,6 +110,32 @@
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="karsiwek.day03b.Day03bKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="karsiwek.day04.Day04aKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode2019" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="karsiwek.day04.Day04aKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="karsiwek.day04b.Day04bKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="adventOfCode2019" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="karsiwek.day04b.Day04bKt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -185,18 +186,18 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.karsiwek.day01.Day01bKt" />
-      <item itemvalue="Kotlin.karsiwek.day02.Day02aKt" />
-      <item itemvalue="Kotlin.karsiwek.day02.Day02bKt" />
       <item itemvalue="Kotlin.karsiwek.day03.Day03aKt" />
       <item itemvalue="Kotlin.karsiwek.day03b.Day03bKt" />
+      <item itemvalue="Kotlin.karsiwek.day04.Day04aKt" />
+      <item itemvalue="Kotlin.karsiwek.day04b.Day04bKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.karsiwek.day04b.Day04bKt" />
+        <item itemvalue="Kotlin.karsiwek.day04.Day04aKt" />
         <item itemvalue="Kotlin.karsiwek.day03b.Day03bKt" />
         <item itemvalue="Kotlin.karsiwek.day03.Day03aKt" />
         <item itemvalue="Kotlin.karsiwek.day01.Day01bKt" />
-        <item itemvalue="Kotlin.karsiwek.day02.Day02aKt" />
-        <item itemvalue="Kotlin.karsiwek.day02.Day02bKt" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +214,8 @@
       <workItem from="1575121224430" duration="3980000" />
       <workItem from="1575226583644" duration="4444000" />
       <workItem from="1575275244679" duration="2116000" />
-      <workItem from="1575355113309" duration="6400000" />
+      <workItem from="1575355113309" duration="8438000" />
+      <workItem from="1575445597500" duration="335000" />
     </task>
     <servers />
   </component>
@@ -253,6 +255,16 @@
           <url>file://$PROJECT_DIR$/src/karsiwek/day03/day03a.kt</url>
           <line>50</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/karsiwek/day04/day04b.kt</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/karsiwek/day04/day04b.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
